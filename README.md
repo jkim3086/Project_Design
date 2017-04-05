@@ -1,4 +1,4 @@
-** This project was for a capstone project requirement for Computer Science degree at Georgia Tech. I worked in Team Casper with 4 other team-members on a full lifecycle project, which is GHOST. **
+**This project was for a capstone project requirement for Computer Science degree at Georgia Tech. I worked in Team Casper with 4 other team-members on a full lifecycle project, which is GHOST.**
 
 # GHOST (The Global Hepatitis Outbreak and Surveillance Technology)
 _GHOST, developed by Division of Viral Hepatitis at CDC, is a system for the detection of Hepatitis outbreaks in the United States through molecular analysis._
